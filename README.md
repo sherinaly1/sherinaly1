@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sherinaly1
+- 👋 Hi, I’m @sherinaly1. Ph.D. in Computer Engineering (Virginia Tech)
 - 👀 I’m interested in Computer Vision, Machine Learning, and Health Aid Systems
 - 🌱 I’m currently learning to master Python for Machine Learning and Data Science 
 - 💞️ I’m looking to collaborate on Any related project
