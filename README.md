@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sherinaly1
 - 👀 I’m interested in Computer Vision, Machine Learning, and Health Aid Systems
-- 🌱 I’m currently learning Python for Data Science 
+- 🌱 I’m currently learning to master Python for Machine Learning and Data Science 
 - 💞️ I’m looking to collaborate on Any related project
 - 📫 How to reach me: send me a message via my LinkedIn https://www.linkedin.com/in/sherin-fathy-aly-ph-d-5b824021/
 
